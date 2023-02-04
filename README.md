@@ -35,6 +35,10 @@ Le Workshop comprend les exercices suivants :
 6. Concurrence
 7. Structs et interfaces
 8. API RESTful
+9. Maps
+10. File
+11. Test unitaire
+12. Connexions réseau
 
 ## Documentation
 
@@ -75,11 +79,11 @@ Le Workshop comprend les exercices suivants :
     Documentation Go : https://tour.golang.org/moretypes/19
     Tutoriel sur les maps : https://www.golang-book.com/books/intro/10
 
-10. Fichiers :
+10. File :
     Documentation Go sur la gestion des fichiers : https://golang.org/pkg/io/ioutil/
     Tutoriel sur la gestion des fichiers en Go : https://tutorialedge.net/golang/reading-files-in-go/
 
-11. Tests unitaires :
+11. Test unitaire :
     Documentation Go sur les tests unitaires : https://golang.org/pkg/testing/
     Tutoriel sur les tests unitaires en Go : https://tutorialedge.net/golang/writing-unit-tests-in-go/
 
